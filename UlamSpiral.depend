@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1691701897 source:c:\users\víctor melo\desktop\github\matrixdet\ulamspiral\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdint.h>
+	<math.h>
+
