@@ -43,7 +43,4 @@ Feel free to contribute to this project by improving the code, enhancing the alg
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Enjoy exploring the world of Ulam Spirals and the Miller-Rabin primality test! If you have any questions or suggestions, don't hesitate to [contact the author](mailto:your.email@example.com).
 
