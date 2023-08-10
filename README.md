@@ -1,10 +1,10 @@
 # Ulam Spiral Generator with Miller-Rabin Primality Test
 
-This is a C program that generates and displays an Ulam Spiral using the ASCII characters and utilizes the Miller-Rabin primality test to identify prime numbers.
+This is a C program that generates and displays an Ulam Spiral using the prime numbers and utilizes the Miller-Rabin primality test to identify prime numbers.
 
 ## Ulam Spiral
 
-The Ulam Spiral is a mathematical pattern formed by arranging numbers in a spiral pattern, where the prime numbers tend to align along diagonal lines. It was named after its discoverer, Stanislaw Ulam. The program provided here creates a visual representation of the Ulam Spiral with prime numbers marked using the 'P' character.
+The Ulam Spiral is a mathematical pattern formed by arranging numbers in a spiral pattern, where the prime numbers tend to align along diagonal lines. It was named after its discoverer, Stanislaw Ulam. The program provided here creates a visual representation of the Ulam Spiral with prime numbers marked using the primes numbers.
 
 ## Miller-Rabin Primality Test
 
